@@ -20,6 +20,7 @@ name1 = "GuNel yaxsi Qizdir"
 # print(name1)
 # asagidaki funksiya butun herfleri kicik simvollara cevirir
 print(name1)
-c=name1.lower()
+c = name1.lower()
 print(c)
 print(name1)
+name2 = "Reshad"
