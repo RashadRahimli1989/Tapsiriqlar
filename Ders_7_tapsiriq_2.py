@@ -1,0 +1,6 @@
+ad=input("Adınızı daxil edin: ")
+t=int(input("Təvəllüdünüzü daxil edin: "))
+b=int(input("1-ci sinifə getdiyiniz ili daxil edin: "))
+y=int(input("Yaşınızı daxil edin: "))
+v=input("Vəzifənizi daxil edin: ")
+print("Mənim adim {}-dır. Mən {}-ci ildə anadan olmuşam.\n\tMən {}-ci ildə 1-ci sinifə getmişəm. Hazırda mənim {} yaşım var. Mən {} işləyirəm".format(ad,t,b,y,v))
